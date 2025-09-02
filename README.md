@@ -1,0 +1,2 @@
+# pricebot
+Discord price bot
